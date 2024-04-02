@@ -4,6 +4,8 @@
 The lesson plans, handouts, and slideshows were taken from [Common Sense Education](https://www.commonsense.org/education) Website with full permission. Common Sense's website allows full use of their content with attribution and as long as it is not for commercial use. 
 ### Images
 All images have been taken from copyright free websites, such as Unsplash, Pexels and Flaticon.
+### Videos
+Embed code was used from [YouTube](youtube.com) to embed some videos into the site.
 
 #### References to sites and images used in the website:
 - Kimberly Farmer (2017) Shallow focus photography of books, Unsplash. Available at: [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-books-lUaaKCUANVI). (Accessed: 2 April 2024).
