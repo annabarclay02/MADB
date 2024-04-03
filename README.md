@@ -16,3 +16,4 @@ Embed code was used from [YouTube](https://www.youtube.com) to embed some videos
 - Freepik (no date) Fake free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/fake_1483341?term=fake+news&page=1&position=1&origin=search&related_id=1483341). (Accessed: 3 April 2024).
 - Freepik (no date) Presentation free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/presentation_875315?term=classroom&related_id=875315). (Accessed: 3 April 2024).
 - Freepik (no date) Fake News free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/fake-news_9269046?term=fake+news&page=1&position=15&origin=search&related_id=9269046). (Accessed: 3 April 2024).
+Pixabay (no date) Close-up Photography of Smartphone Icons, Pexels. Available at: [Pexels](https://www.pexels.com/photo/close-up-photography-of-smartphone-icons-267350/). (Accessed: 3 April 2024).
