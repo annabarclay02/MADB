@@ -13,3 +13,6 @@ Embed code was used from [YouTube](https://www.youtube.com) to embed some videos
 - Max Fischer (2020) A Children Looking the Laptop, Pexels. Available at: [Pexels](https://www.pexels.com/photo/a-children-looking-the-laptop-5212687/). (Accessed: 2 April 2024).
 - Freepik (no date) Pc free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/pc_556813?term=pc&page=1&position=45&origin=search&related_id=556813). (Accessed: 2 April 2024).
 - fauxels (no date) People Near Table, Pexels. Available at: [Pexels](https://www.pexels.com/photo/people-near-table-3184639/). (Accessed: 3 April 2024).
+- Freepik (no date) Fake free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/fake_1483341?term=fake+news&page=1&position=1&origin=search&related_id=1483341). (Accessed: 3 April 2024).
+- Freepik (no date) Presentation free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/presentation_875315?term=classroom&related_id=875315). (Accessed: 3 April 2024).
+- Freepik (no date) Fake News free icon, Flaticon. Available at: [Flaticon](https://www.flaticon.com/free-icon/fake-news_9269046?term=fake+news&page=1&position=15&origin=search&related_id=9269046). (Accessed: 3 April 2024).
