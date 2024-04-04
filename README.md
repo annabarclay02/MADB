@@ -1,7 +1,7 @@
 # MAD(B)
 ## Permissions 
 ### Lesson Plans
-The lesson plans, handouts, and slideshows were taken from [Common Sense Education](https://www.commonsense.org/education) Website with full permission. Common Sense's website allows full use of their content with attribution and as long as it is not for commercial use. 
+The lesson plans, handouts, and slideshows were taken from [Common Sense Education](https://www.commonsense.org/education) Website with full permission. Common Sense's website allows full use of their content with attribution and as long as it is not for commercial use. Some YouTube clips were also found on the Common Sense site.
 ### Images
 All images have been taken from copyright free websites, such as Unsplash, Pexels and Flaticon.
 ### Videos
