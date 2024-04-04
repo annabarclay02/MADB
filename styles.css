@@ -50,6 +50,7 @@ html {
     margin-left: 1%;
     margin-top: 0.5%;
     max-width: 10%;
+    display: inline-block;
   }
 
 /* Top navigation bar styles, code created with the aid of w3 schools */
