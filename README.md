@@ -7,7 +7,8 @@ All images have been taken from copyright free websites, such as Unsplash, Pexel
 ### Videos
 Embed code was used from [YouTube](https://www.youtube.com) to embed some videos into the site.
 ### Code
-Some of the code was created with aid of [W3 Schools](https://www.w3schools.com) HTML and CSS tutorials, especially for the navigation bar, footer, dropdown menu, and contact form.
+Some of the code was created with aid of [W3 Schools](https://www.w3schools.com) HTML and CSS tutorials, especially for the navigation bar, footer, dropdown menu, and contact form. [Stack Overflow](https://stackoverflow.com) forums were also very helpful for troubleshooting and figuring out issues.
+The title font was taken from Google Fonts.
 
 #### References to sites and images used in the website:
 - Kimberly Farmer (2017) Shallow focus photography of books, Unsplash. Available at: [Unsplash](https://unsplash.com/photos/shallow-focus-photography-of-books-lUaaKCUANVI). (Accessed: 2 April 2024).
