@@ -18,8 +18,9 @@ html {
 
 .title h1{
     display:inline-flex;
-    line-height: 330%;
     padding-left: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     max-width: 100%;
 }
 
