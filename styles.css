@@ -24,8 +24,7 @@ html {
     max-width: 100%;
 }
 
-/* <uniquifier>: Use a unique and descriptive class name */
-
+/* credit to Google fonts */
 .dosis {
   font-family: "Dosis", sans-serif;
   font-optical-sizing: auto;
@@ -95,7 +94,7 @@ html {
     background-color: #0074D9;
   }
   
-  /* Dropdown content (hidden by default) */
+  /* Dropdown content (hidden by default) - code helped by W3 Schools */
 .dropdown-content {
     display: none;
     position: absolute;
@@ -159,7 +158,7 @@ html {
     padding-bottom: 1.5%;
 }
 
-/* Style the breadcrumbs */
+/* Style the breadcrumbs - help taken from W3 Schools*/
 ul.breadcrumb {
     padding: 0.5% 1.5%;
     list-style: none;
@@ -313,7 +312,7 @@ h2 {
     padding-bottom: 2.5%;
 }
 
-/* Contact form */
+/* Contact form - code credited to W3 Schools*/
 input[type=text], select, textarea {
     width: 100%; 
     padding: 1.5%;  
